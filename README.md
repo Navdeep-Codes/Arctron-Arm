@@ -31,9 +31,9 @@ Each plugin is a separate smart module that can be plugged into the arm:
 
 | Plugin                 | Description                                           |
 |------------------------|-------------------------------------------------------|
-| 🤖 Gripper             | Pick-and-place claw using an SG90 servo              |
-| 📸 Face Tracker        | ESP32-CAM gimbal that follows your face in real time |
-| 🔴 Laser Pointer       | Laser mount with servo control (For ur cat🐈)     |
+| Gripper             | Pick-and-place claw using an SG90 servo              |
+| Face Tracker        | ESP32-CAM gimbal that follows your face in real time |
+| Laser Pointer       | Laser mount with servo control (For ur cat🐈)     |
 
 ---
 
