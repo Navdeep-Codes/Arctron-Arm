@@ -1,8 +1,5 @@
 # Arctron-Arm
 Modular 5DOF Robotic Arm with Plug-and-Play Plugins
-# Arctron Arm V1.0
-
-> Modular 5DOF Robotic Arm with Plug-and-Play Precision  
 > Designed by **Navdeep** · Sponsered by **Highway** (A Hack Club Event) · Made to Explore!
 
 ---
