@@ -1,6 +1,6 @@
 ---
-title: "Arctron Arm"
-author: "Navdeep Singh / ![@Navdeep](https://hackclub.slack.com/team/U083T3ZP6AV) "
-description: "Describe your project in a short sentence!"
-created_at: "2024-05-25"
+Title: "Arctron Arm"
+Author: "Navdeep Singh / ![@Navdeep](https://hackclub.slack.com/team/U083T3ZP6AV) "
+Description: "Modular 5DOF Robotic Arm with Plug-and-Play Plugins!"
+Created_at: "2024-05-25"
 ---
